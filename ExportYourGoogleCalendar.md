@@ -93,11 +93,11 @@ Step 1: Open the "Export your Calendar" application and login using Google Calen
 
 Step 2: After successful login, press the "Microsoft/Outlook Calendar" radio button.
 
-![Logged In Google Account](ExportYourGoogleCalendar_screenshots/error1.PNG)
+![Logged In Google Account](ExportYourGoogleCalendar_screenshots/error1.png)
 
 Step 3: After switching to "Microsoft/Outlook Calendar" radio button. Again press the "Google Calendar" radio button. The application shows "Login..." button again without doing the signed out. The application has logged out the google calendar user.
 
-![Logged Out Issue](ExportYourGoogleCalendar_screenshots/error2.PNG)
+![Logged Out Issue](ExportYourGoogleCalendar_screenshots/error2.png)
 
 ## rfreytag - 20240307
 
